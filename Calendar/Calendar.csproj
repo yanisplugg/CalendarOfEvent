@@ -51,6 +51,7 @@
     </Compile>
     <Compile Include="CalendarManager.cs" />
     <Compile Include="Event.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
